@@ -35,7 +35,7 @@ tailwind-traders-powerbi-analysis/
 ### Phase 1: Local Pre-Processing & Data Preparation (Excel)
 To ensure immediate database normalization and reporting alignment, raw transactional line items in the Sales sheet were processed using strict corporate margin parameters:
 
-* **Production Cost Engineering:** Modeled standardized product manufacturing costs at a uniform $35\%$ manufacturing cost allocation margin relative to base product pricing:
+* **Production Cost Engineering:** Modeled standardized product manufacturing costs at a uniform 35% manufacturing cost allocation margin relative to base product pricing:
   $$\text{Cost Per Unit} = \text{Gross Product Price} \times 0.35$$
 * **Raw Revenue Stream Isolation:** Calculated baseline corporate gross inflows across all units processed:
   $$\text{Gross Revenue} = \text{Gross Product Price} \times \text{Quantity Purchased}$$
@@ -120,12 +120,12 @@ Through deep cross-dimensional visual analytics, the BI solution surfaced key op
 
 ### 1. Revenue & Sales Activity Findings
 * **National Loyalty Leaders:** The **United Kingdom (UK)** holds the highest corporate brand alignment, leading the enterprise with **$315$** Loyalty Points, followed closely by the **USA** with **$305$** Points.
-* **High-Value Order Hotspots:** Geographic distribution analytics revealed that the **United Arab Emirates (UAE)** yields the highest transaction values. The UAE registered a leading **Median Sales Order Value of $\$680.79$**—surpassing the next closest nation (**UK at $\$234.00$**) by **$190.93\%$**.
+* **High-Value Order Hotspots:** Geographic distribution analytics revealed that the **United Arab Emirates (UAE)** yields the highest transaction values. The UAE registered a leading **Median Sales Order Value of $ 680.79**—surpassing the next closest nation (**UK at $ 234.00**) by **$190.93\%$**.
 * **High-Velocity Product Volumes:** Inventory analytics flagged the top-selling items by transaction count, led by **Floral Wallpaper**, **Porcelain Dinner Set**, and **ProCarpet Cleaner**, with **$6$** units sold each.
 
 ### 2. Profitability & Cost Control Findings
-* **Corporate Profit Engine:** Visual product metrics confirmed that the **Modular Sofa Set** is Tailwind Traders' most critical product asset, driving a massive **$\$928.36$** in Net Revenue.
-* **Low-Yield Structural Risks:** Conversely, **Floral Wallpaper**, despite its high volume ($6$ units sold), is a highly inefficient product line. It generated a net revenue of only **$\$9.60$**, highlighting a critical area for pricing adjustment or supplier renegotiation.
+* **Corporate Profit Engine:** Visual product metrics confirmed that the **Modular Sofa Set** is Tailwind Traders' most critical product asset, driving a massive **$ 928.36** in Net Revenue.
+* **Low-Yield Structural Risks:** Conversely, **Floral Wallpaper**, despite its high volume ($6$ units sold), is a highly inefficient product line. It generated a net revenue of only **$ 9.60**, highlighting a critical area for pricing adjustment or supplier renegotiation.
 
 ---
 
