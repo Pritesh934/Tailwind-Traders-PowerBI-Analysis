@@ -131,17 +131,21 @@ Through deep cross-dimensional visual analytics, the BI solution surfaced key op
 
 ## 📷 Executive Visualizations & Dashboard Gallery
 
-### Desktop Sales Overview Dashboard
+### Sales Report Dashboard
 Presents global volume distributions, inventory availability counts, loyalty point tracking, and localized median order values across all active operational territories.
-![Desktop Sales Overview Dashboard](documentation/Screenshots/Sales Report Screenshot.png)
 
-### Desktop Profit Overview Dashboard
+<img width="1287" height="716" alt="Sales Report Screenshot" src="https://github.com/user-attachments/assets/8438c5a3-3e9a-4e01-8fe3-6c6d0f014157" />
+
+
+### Profit Overview Dashboard
 Tracks aggregate corporate bottom lines, dynamic time-series performance changes, and product-specific revenue generation profiles.
-![Desktop Profit Overview Dashboard](documentation/Screenshots/Profit Overview Screenshot.png)
 
-### Desktop Central Core Metrics Summary
+<img width="1563" height="706" alt="Profit Overview Screenshot" src="https://github.com/user-attachments/assets/3c236c81-f381-488e-b902-1e1266d3c1b1" />
+
+### Central Core Metrics Summary
 Consolidates high-level explicit calculated card measures including yearly, quarterly, and year-to-date profit margin percentages alongside base statistical medians.
-![Desktop Core Metrics Summary](documentation/Screenshots/Card Measures Screenshot.png)
+
+<img width="687" height="391" alt="Card Measures Screenshot" src="https://github.com/user-attachments/assets/10672b60-492d-4f2d-86f6-ff1a6f862626" />
 
 ### Mobile Viewport Optimization
 The structural grid layouts were reconfigured and stacked into a responsive, single-column alignment directly within the Power BI Service canvas interface to support seamless executive access on mobile devices.
