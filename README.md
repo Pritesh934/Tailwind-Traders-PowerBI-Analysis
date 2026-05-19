@@ -152,7 +152,7 @@ The interactive multi-page desktop report was deployed to the cloud. Key metrics
 
 ### 2. Automated Systemic Governance & Alerts
 To transform the static report into an active operational assistant, automated triggers and subscriptions were configured directly within the cloud database gateway:
-* **Real-Time Data Threshold Alerts:** Programmed a live cloud alert on the **Gross Revenue USD** card to instantly notify stakeholders if transaction inflows drop below a **$\$400$** threshold.
+* **Real-Time Data Threshold Alerts:** Programmed a live cloud alert on the **Gross Revenue USD** card to instantly notify stakeholders if transaction inflows drop below a **$ 400** threshold.
 * **Corporate Weekly Subscriptions:** Created scheduled distribution pipelines to email executive teams fresh report page previews and access links on Monday mornings:
   * **Sales Weekly Summary:** Scheduled every **Monday at 5:00 AM** to prepare regional sales teams for the weekly kick-off.
   * **Profit Weekly Summary:** Scheduled every **Monday, Wednesday, and Friday at 6:00 AM** to keep executive leadership aligned on financial performance.
