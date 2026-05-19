@@ -131,15 +131,20 @@ Through deep cross-dimensional visual analytics, the BI solution surfaced key op
 
 ## 📷 Executive Visualizations & Dashboard Gallery
 
-### Desktop Dashboard Layout
-The main dashboard brings together core financial metrics, inventory indicators, and regional profiles.
+### Desktop Sales Overview Dashboard
+Presents global volume distributions, inventory availability counts, loyalty point tracking, and localized median order values across all active operational territories.
+![Desktop Sales Overview Dashboard](documentation/Screenshots/Sales-Report-Screenshot.png)
 
-![Desktop Executive Dashboard](documentation/Screenshots/executive-dashboard-desktop.png)
+### Desktop Profit Overview Dashboard
+Tracks aggregate corporate bottom lines, dynamic time-series performance changes, and product-specific revenue generation profiles.
+![Desktop Profit Overview Dashboard](documentation/Screenshots/Profit-Overview-Screenshot.png)
 
-### Mobile Viewport Layout
-An optimized vertical interface constructed for mobile touch targets, ensuring instant, readable layouts for corporate leaders on the move.
+### Desktop Central Core Metrics Summary
+Consolidates high-level explicit calculated card measures including yearly, quarterly, and year-to-date profit margin percentages alongside base statistical medians.
+![Desktop Core Metrics Summary](documentation/Screenshots/Card-Measures-Screenshot.png)
 
-![Mobile Executive Dashboard](documentation/Screenshots/executive-dashboard-mobile.png)
+### Mobile Viewport Optimization
+The structural grid layouts were reconfigured and stacked into a responsive, single-column alignment directly within the Power BI Service canvas interface to support seamless executive access on mobile devices.
 
 ---
 
