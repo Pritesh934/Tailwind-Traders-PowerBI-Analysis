@@ -119,8 +119,8 @@ To maintain lightweight semantic models and accelerate computation times, explic
 Through deep cross-dimensional visual analytics, the BI solution surfaced key operational findings:
 
 ### 1. Revenue & Sales Activity Findings
-* **National Loyalty Leaders:** The **United Kingdom (UK)** holds the highest corporate brand alignment, leading the enterprise with **$315$** Loyalty Points, followed closely by the **USA** with **$305$** Points.
-* **High-Value Order Hotspots:** Geographic distribution analytics revealed that the **United Arab Emirates (UAE)** yields the highest transaction values. The UAE registered a leading **Median Sales Order Value of $ 680.79**—surpassing the next closest nation (**UK at $ 234.00**) by **$ 190.93**.
+* **National Loyalty Leaders:** The **United Kingdom (UK)** holds the highest corporate brand alignment, leading the enterprise with **$315$** Loyalty Points, followed closely by the **USA** with **$305$** Points. The UAE has the least loyalty points at 151.
+* **High-Value Order Hotspots:** Geographic distribution analytics revealed that the **United Arab Emirates (UAE)** yields the highest transaction values. The UAE registered a leading **Median Sales Order Value of $ 680.79**—surpassing the next closest nation (**Australia at $ 234.00**) by **$ 446.79**. The UK has has the least Median Sales Order Value at **$ 144**.
 * **High-Velocity Product Volumes:** Inventory analytics flagged the top-selling items by transaction count, led by **Floral Wallpaper**, **Porcelain Dinner Set**, and **ProCarpet Cleaner**, with **$6$** units sold each.
 
 ### 2. Profitability & Cost Control Findings
